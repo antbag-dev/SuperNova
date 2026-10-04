@@ -93,7 +93,7 @@ playwright install chromium
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/superclaw.git
+git clone https://github.com/antbag-dev/superclaw.git
 cd superclaw
 python -m venv .venv && source .venv/bin/activate   # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
